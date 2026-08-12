@@ -1,0 +1,5 @@
+name = "gcparch"
+account_id = "YOUR_ACCOUNT_ID" # replace with your account id or leave as placeholder and use repo secrets in CI
+compatibility_date = "2026-08-12"
+
+# We deploy using `wrangler deploy --outdir .svelte-kit/cloudflare` from CI or locally.
