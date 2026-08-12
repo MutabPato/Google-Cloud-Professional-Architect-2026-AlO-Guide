@@ -1,0 +1,8 @@
+{
+  "name": "google-cloud-professional-architect-2026-alo-guide",
+  "main": ".svelte-kit/cloudflare/_worker.js",
+  "compatibility_date": "2025-01-01",
+  "assets": {
+    "directory": ".svelte-kit/cloudflare/public"
+  }
+}
